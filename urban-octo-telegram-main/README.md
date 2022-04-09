@@ -7,4 +7,4 @@ In this challenge, I did the following:
 5. I added comments to the sections of code in both HTML and CSS to further describe what each section is/does
 6. I adjusted the file/folder structure
 
-![image](https://user-images.githubusercontent.com/93448964/162574441-d11a768d-9aff-42dd-8e14-80c78d45e1a4.png)
+![image](https://user-images.githubusercontent.com/93448964/162574510-b9a2d0c8-0cb4-4b24-8215-ed4a915f9d70.png)
