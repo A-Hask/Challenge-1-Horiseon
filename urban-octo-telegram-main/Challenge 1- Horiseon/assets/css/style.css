@@ -58,7 +58,7 @@ p {
     background-size: cover;
     background-position: center;
 }
-
+ /*This section stylized the "What we do" section of the page*/
 .float-left {
     float: left;
     margin-right: 25px;
@@ -129,7 +129,7 @@ h2 {
     margin-bottom: 20px;
     font-size: 36px;
 }
-/* This section stylizes the footer section*/
+/* This section stylizes the footer section and centers it on the page*/
 .footer {
     padding: 30px;
     clear: both;
