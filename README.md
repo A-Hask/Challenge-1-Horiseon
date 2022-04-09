@@ -1,5 +1,6 @@
 # Code Refactor Starter Code
 **Description**
+<br/>
 This website is to showcase Horiseon's services to current and potential future clients.
 The clients can go to the website to learn exactly what Horiseon does and how it will benefit them.
 
